@@ -13,8 +13,8 @@ export default function getPostMetadata(basePath) {
     return {
       title: matterResult.data.title,
       bio: matterResult.data.description,
-      prep_time: matterResult.data.prep_time,
-      cook_time: matterResult.data.cook_time,
+      category: matterResult.data.category,
+      difficulty: matterResult.data.difficulty,
       slug: filename.replace(".md", ""),
     };
   });

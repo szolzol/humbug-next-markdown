@@ -10,12 +10,12 @@ export default function PostCard(props) {
         <p>{post.bio}</p>
         <div className="statsContainer">
           <div>
-            <h5>Prep Time</h5>
-            <p>{post.prep_time}</p>
+            <h5>Kategória</h5>
+            <p>{post.category}</p>
           </div>
           <div>
-            <h5>Cook Time</h5>
-            <p>{post.cook_time}</p>
+            <h5>Nehézség</h5>
+            <p>{post.difficulty}</p>
           </div>
         </div>
       </div>
