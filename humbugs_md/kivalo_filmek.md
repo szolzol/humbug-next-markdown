@@ -1,6 +1,6 @@
 ---
 title: "Kiváló filmek"
-category: "Utazás"
+category: "Popkultúra"
 difficulty: "Közepes"
 description: "Nevezzetek meg filmeket, amelyeknek legalább 8,7-es értékelésük van IMDb-n!"
 ---
